@@ -1,0 +1,7 @@
+pydantic
+pydantic[email]
+python-dotenv
+requests
+ipykernel
+beautifulsoup4
+mysql-connector-python
